@@ -1,0 +1,8 @@
+#ignore packages installed by npm
+node_modules
+
+#ignore credentials.js
+credentials.js
+
+#ignore log directory
+log
